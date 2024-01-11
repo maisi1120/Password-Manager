@@ -2,7 +2,7 @@
 
 
 # Overview
-This project is developed using Python and use the `turtle`, `random` and `pyperclip` module. The goal is to assist users in securely storing their passwords for multiple websites.
+This project is developed using Python and use the `tkinter`, `random` and `pyperclip` module. The goal is to assist users in securely storing their passwords for multiple websites.
 
 # Instructions
 1. Input new website names and passwords.
@@ -22,7 +22,7 @@ This project is developed using Python and use the `turtle`, `random` and `pyper
 # Dependencies:
 
 1. Python v3.x is required.
-2. `turtle` module is also required.
+2. `tkinter` module is also required.
 3. `random` module is also required.
 4. `pyperclip` module is also required
 
