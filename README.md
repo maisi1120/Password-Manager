@@ -1,4 +1,4 @@
-![header](https://github.com/maisi1120/photo/assets/156170308/9bb9a11f-bc86-43dc-acb9-0e0714969d2c)
+![header](https://github.com/maisi1120/photo/assets/156170308/b7dc4b54-64f0-46d0-baf5-7b24f50f245a)
 
 
 # Overview
@@ -15,7 +15,7 @@ This project is developed using Python and use the `tkinter`, `random` and `pype
 
 
 # Usage example
-![Untitled (1)](https://github.com/maisi1120/photo/assets/156170308/242c8d0d-c0a6-489d-9abc-c90fa714a964)
+![Untitled (1)](https://github.com/maisi1120/photo/assets/156170308/9acb682f-465b-4ead-8ff8-347ded8996a8)
 
 
 
